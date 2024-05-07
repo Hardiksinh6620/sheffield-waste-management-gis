@@ -61,3 +61,7 @@ The public report preserves the academic content and removes the student number 
 ## Reuse and attribution
 
 The dissertation's references remain in the report. No blanket reuse licence is granted for the report, third-party maps, or cited material. Preserve source attribution and check the relevant rights before reuse.
+
+## Later portfolio documentation
+
+- [Reconstructed portfolio notes](portfolio-notes/README.md)
