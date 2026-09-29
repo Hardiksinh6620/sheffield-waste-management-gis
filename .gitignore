@@ -1,0 +1,17 @@
+# Local working files and unpublished inputs
+.DS_Store
+Thumbs.db
+*.tmp
+*.lock
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+private/
+data/raw/
+scratch/
+
+# GIS lock files
+*.sr.lock
+*.schema.lock
